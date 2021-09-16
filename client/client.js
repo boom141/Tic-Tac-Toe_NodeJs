@@ -202,5 +202,6 @@ function enter(){
     $(".p2Score").css("opacity", 1);
     $(".span").css("opacity", 1);
     $(".turn").css("opacity", 1);
+    $(".direction").css("opacity", 0);
     turn.innerText = PlayerTurn;
 }
