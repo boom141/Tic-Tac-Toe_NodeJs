@@ -15,7 +15,7 @@ var turn = document.querySelector('.turn');
 let PlayerTurn = true;
 let RoomValue, timer, t, IdCpy, parse, reloadtime;
 
-var InitY = 80, InitX = 287, contained = 0;  //854
+var InitY = 80, InitX = 344, contained = 0;  //854
 
 //Tile combination of tic tac toe
 let TileCombos = [
